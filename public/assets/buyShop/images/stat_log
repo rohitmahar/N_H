@@ -1,0 +1,20 @@
+Installer starts
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=generalEvents&ea=start&cd1=empty&cd2=0&cd3=0&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=show&cd1=empty&cd2=0&cd3=369&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=accept&cd1=empty&cd2=0&cd3=369&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=show&cd1=empty&cd2=0&cd3=692&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=accept&cd1=empty&cd2=0&cd3=692&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=install&cd1=empty&cd2=2&cd3=369&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=install&cd1=empty&cd2=0&cd3=692&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=generalEvents&ea=finish&cd1=empty&cd2=0&cd3=0&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+
+Installer starts
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=generalEvents&ea=start&cd1=empty&cd2=0&cd3=0&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=show&cd1=empty&cd2=0&cd3=369&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=accept&cd1=empty&cd2=0&cd3=369&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=show&cd1=empty&cd2=0&cd3=692&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=accept&cd1=empty&cd2=0&cd3=692&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=install&cd1=empty&cd2=2&cd3=369&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=componentEvents&ea=error&cd1=component%20installation%20failed&cd2=193&cd3=692&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+200 : v=1&tid=UA%2D57883710%2D1&cid=6a8bec9b04e045de8ce715c04a2347b4&an=installer&t=event&ec=generalEvents&ea=finish&cd1=empty&cd2=0&cd3=0&cd4=5071&cd5=6a8bec9b04e045de8ce715c04a2347b4&cd6=5%2C34
+
